@@ -1,0 +1,27 @@
+@import url('vars.css');
+
+
+/*COLOR*/
+
+.bg-lilas{
+    background-color: var(--color-lilas);
+    color: #fff;
+    text-decoration: none;
+    padding: 8px;
+}
+
+.bg-verde{
+    color: var(--color-verde);
+}
+
+.text-small{
+    font-size: 0.8125rem;
+}
+
+.divs-facilidades{
+    width: 60%;
+}
+
+.tamanho-icon{
+    font-size:50px;
+}
